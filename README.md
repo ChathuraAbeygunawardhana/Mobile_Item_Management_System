@@ -22,7 +22,7 @@ Let's get started with the setup:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd ItemManagementApp
+   cd Mobile_Item_Management_System
    ```
 
 3. **Install the dependencies:**
