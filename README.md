@@ -1,6 +1,6 @@
 # Item Management App
 
-Welcome to the Item Management App, a powerful React Native application designed for efficient item management.
+Welcome to the Item Management App, a React Native application designed for item management.
 
 ## Project Structure
 
