@@ -16,13 +16,13 @@ Let's get started with the setup:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ChathuraAbeygunawardhana/Mobile_Item_Management_System.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd ItemManagementApp
+   cd Mobile_Item_Management_System
    ```
 
 3. **Install the dependencies:**
